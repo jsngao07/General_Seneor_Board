@@ -9666,7 +9666,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 229.5652 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -9677,7 +9677,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/charasheet/c3225x7r1e226m250ab_220216.pdf"
 			(at 228.6 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -9688,7 +9688,51 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "MLCC, X76"
+			(at 228.6 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage Rating" "25V"
+			(at 228.6 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C3225X7R1E226M250AB"
+			(at 228.6 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 228.6 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "20%"
 			(at 228.6 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -10760,7 +10804,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 139.3952 233.68 0)
 			(hide yes)
 			(show_name no)
@@ -10771,7 +10815,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.farnell.com/datasheets/4088110.pdf"
 			(at 138.43 229.87 0)
 			(hide yes)
 			(show_name no)
@@ -10782,18 +10826,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 138.43 229.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Type" "Ceramic MLCC"
+		(property "Description" "Ceramic MLCC"
 			(at 138.43 229.87 0)
 			(hide yes)
 			(show_name no)
@@ -10826,7 +10859,29 @@
 				)
 			)
 		)
-		(property "Tolerance" "20%"
+		(property "Tolerance" "10%"
+			(at 138.43 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM31CR71C106KAC7L"
+			(at 138.43 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
 			(at 138.43 229.87 0)
 			(hide yes)
 			(show_name no)
@@ -12019,7 +12074,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 211.7852 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -12030,7 +12085,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/charasheet/c3225x7r1e226m250ab_220216.pdf"
 			(at 210.82 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -12041,29 +12096,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 210.82 224.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Type" "MLCC"
-			(at 210.82 224.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Dielectric" "X7R"
+		(property "Description" "MLCC, X76"
 			(at 210.82 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -12075,6 +12108,28 @@
 			)
 		)
 		(property "Voltage Rating" "25V"
+			(at 210.82 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C3225X7R1E226M250AB"
+			(at 210.82 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TDK"
 			(at 210.82 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -17941,7 +17996,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 220.6752 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -17952,7 +18007,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/charasheet/c3225x7r1e226m250ab_220216.pdf"
 			(at 219.71 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -17963,7 +18018,51 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "MLCC, X76"
+			(at 219.71 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage Rating" "25V"
+			(at 219.71 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C3225X7R1E226M250AB"
+			(at 219.71 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 219.71 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "20%"
 			(at 219.71 232.41 0)
 			(hide yes)
 			(show_name no)
